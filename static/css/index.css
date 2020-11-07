@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    background: url('../images/阿狸.jpg') no-repeat ;
+    background-size: 100%;
+}
+ul,li{
+    text-decoration: none;
+}
+a{
+    list-style: none;
+}
